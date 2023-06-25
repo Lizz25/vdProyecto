@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvd_1_p=self.webpackChunkvd_1_p||[]).push([[3880],{7905:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/vdProyecto/blog/tags/hola","allTagsPath":"/vdProyecto/blog/tags","count":1}')}}]);
