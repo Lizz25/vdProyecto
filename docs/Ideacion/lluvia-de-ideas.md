@@ -6,7 +6,7 @@ sidebar_position: 1
 
 :::info
 
-Se tenian tres grupos de palabras, **sustantivos**, **verbos** y **adjetivos**. De los cuales se escojieron tres al azar para formar cada una de las ideas.:bulb:
+Se tenian tres grupos de palabras, **sustantivos**, **verbos** y **adjetivos**. De los cuales se escogieron tres al azar para formar cada una de las ideas.:bulb:
 :::
 
 ### Idea 1:small_red_triangle_down:
