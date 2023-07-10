@@ -10,9 +10,9 @@ Se tenian tres grupos de palabras, **sustantivos**, **verbos** y **adjetivos**. 
 :::
 
 ### Idea 1
-> *** Niña, linda y muerta ***
+> *** Niña, muerta y hablar***
 > 
-> Hay una linda niña fantasma que da instrucciones para descubrir porque murió.
+> Hay una niña fantasma que nos habla para descubrir porque murió.​ 
 
 ### Idea 2
 > *** Cafeteria, escribir y feo ***
@@ -69,3 +69,4 @@ completando desafíos para que el planeta pueda ser colorido nuevamente.
 > Hay un zombie que necesita romper todo a su alrededor en busca de convertirse en
 humano otra vez. Al principio es muy lento, pero mientras más avance puede ir
 mejorando y ser más rápido. 
+
