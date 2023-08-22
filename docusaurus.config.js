@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'INTENSOS TEAM',
-  tagline: 'Proyecto Videojuegos 1P',
-  favicon: 'img/favicon.ico',
+  title: 'Cavebot Rescue',
+  tagline: 'Proyecto Segundo Parcial',
+  favicon: 'img/bot.svg',
 
   // Set the production url of your site here
   url: 'https://Lizz25.github.io.',
@@ -67,7 +67,7 @@ const config = {
         title: 'Inicio',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/bot.svg',
         },
         items: [
           {
